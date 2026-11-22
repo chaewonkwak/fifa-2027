@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{LANG}}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{TITLE}}</title>
+<meta name="description" content="{{DESCRIPTION}}">
+{{CANONICAL}}
+{{HEAD_EXTRA}}<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/style.css">
+{{JSONLD}}
+</head>
+<body>
+<header class="site">
+  <div class="wrap">
+    <a class="brand" href="/">{{SITE_NAME}}</a>
+    <nav class="main">{{NAV}}</nav>
+  </div>
+</header>
+<main class="wrap">
+{{CRUMBS}}
+<article>
+<h1>{{H1}}</h1>
+{{BYLINE}}
+{{BODY}}
+</article>
+</main>
+<footer class="site">
+  <div class="wrap">
+    <p class="disclaimer">{{DISCLAIMER}}</p>
+    <p><a href="/about/">About</a> · <a href="/contact/">Contact</a> · <a href="/sources/">Sources &amp; corrections</a></p>
+  </div>
+</footer>
+</body>
+</html>
