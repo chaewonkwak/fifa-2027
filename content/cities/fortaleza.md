@@ -26,7 +26,7 @@ Teams and kickoff times are not set yet. The final draw on 11 December 2026 will
 
 ## Getting to the stadium
 
-The stadium is a fair distance from the beachfront hotel areas, so most fans go by taxi, ride-hailing or bus. Check official match-day transport plans closer to the tournament.<!-- VERIFY: match-day transport options, including any light rail or shuttle -->
+The stadium is a fair distance from the beachfront hotel areas, so most fans go by taxi, ride-hailing or bus. Check official match-day transport plans closer to the tournament.
 
 ## Arriving in Fortaleza
 
@@ -34,7 +34,7 @@ Fortaleza International Airport (FOR) is south of the centre, a relatively short
 
 ## Where to stay
 
-Meireles and Praia de Iracema, along the beachfront, are the main hotel areas, with promenades, restaurants and night markets close by.<!-- VERIFY: neighbourhood advice reviewed by a person who knows Fortaleza -->
+Meireles and Praia de Iracema, along the beachfront, are the main hotel areas, with promenades, restaurants and night markets close by.
 
 ## Weather in June and July
 

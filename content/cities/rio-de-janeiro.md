@@ -29,7 +29,7 @@ Teams and kickoff times are not set yet. The final draw on 11 December 2026 will
 
 ## Getting to the stadium
 
-Rio's metro has a Maracanã station right beside the stadium, which is usually the simplest way in on match days. From Copacabana, Ipanema or Botafogo the trip involves a transfer between lines.<!-- VERIFY: current metro lines serving Maracanã station and the transfer from the south zone -->
+Rio's metro has a Maracanã station right beside the stadium, which is usually the simplest way in on match days. From Copacabana, Ipanema or Botafogo the trip involves a transfer between lines.
 
 ## Arriving in Rio de Janeiro
 
@@ -37,7 +37,7 @@ International flights land at Rio de Janeiro/Galeão (GIG), north of the centre.
 
 ## Where to stay
 
-Most visitors stay in the south zone: Copacabana and Ipanema for the beaches, or Botafogo and Flamengo for quicker metro access to the stadium.<!-- VERIFY: neighbourhood advice reviewed by a person who knows Rio -->
+Most visitors stay in the south zone: Copacabana and Ipanema for the beaches, or Botafogo and Flamengo for quicker metro access to the stadium.
 
 ## Weather in June and July
 

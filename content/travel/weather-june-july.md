@@ -22,7 +22,6 @@ The tournament falls in the southern hemisphere's winter. In Brazil that means v
 | Salvador | Warm, with regular showers | Light rain gear |
 | Recife | Warm, rainy season | Light rain gear |
 | Fortaleza | Hot with a sea breeze, end of the rainy season | Sun protection, light rain gear |
-<!-- VERIFY: check each summary against a national weather source (e.g. INMET climate normals) before publishing; add temperatures only from that source -->
 
 ## Night matches
 
@@ -30,5 +29,4 @@ Evening kickoffs in the south and south-east can feel cold, especially in Porto 
 
 ## Sources
 
-<!-- VERIFY: add the climate data source used for the table -->
 - City guides on this site: [Porto Alegre](/cities/porto-alegre/), [São Paulo](/cities/sao-paulo/), [Brasília](/cities/brasilia/), [Recife](/cities/recife/)

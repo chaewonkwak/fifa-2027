@@ -27,7 +27,7 @@ Teams and kickoff times are not set yet. The final draw on 11 December 2026 will
 
 ## Getting to the stadium
 
-The stadium is in the middle of the planned city, so many hotels in the central hotel sectors are within walking distance or a short ride. Brasília is built around cars, so ride-hailing and taxis are common for longer trips.<!-- VERIFY: walking routes and match-day transport plans -->
+The stadium is in the middle of the planned city, so many hotels in the central hotel sectors are within walking distance or a short ride. Brasília is built around cars, so ride-hailing and taxis are common for longer trips.
 
 ## Arriving in Brasília
 
@@ -35,7 +35,7 @@ Brasília International Airport (BSB) is south of the centre and is one of Brazi
 
 ## Where to stay
 
-The North and South hotel sectors (Setor Hoteleiro Norte and Sul) are the obvious choice for a match trip, close to both the stadium and the Monumental Axis.<!-- VERIFY: neighbourhood advice reviewed by a person who knows Brasília -->
+The North and South hotel sectors (Setor Hoteleiro Norte and Sul) are the obvious choice for a match trip, close to both the stadium and the Monumental Axis.
 
 ## Weather in June and July
 

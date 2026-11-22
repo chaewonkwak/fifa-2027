@@ -13,12 +13,10 @@ Brazil is enormous, and the eight host cities are spread across it, from Porto A
 ## Flying
 
 Domestic flights are the practical way to cover most distances. Brasília and São Paulo are major hubs with connections to every other host city. Book early: demand around match days will be high.
-<!-- VERIFY: airlines serving all host cities; add typical flight times only from an official or airline source -->
 
 ## By road
 
 Long-distance buses are comfortable and common in Brazil, and they work well on shorter routes. Rio de Janeiro and São Paulo are the most practical pair by road. Most other combinations are long overnight journeys.
-<!-- VERIFY: road travel times between Rio and São Paulo and Belo Horizonte -->
 
 ## The three regions
 

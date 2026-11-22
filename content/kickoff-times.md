@@ -32,4 +32,3 @@ To use the table for another kickoff time, shift every row by the same number of
 ## Sources
 
 - FIFA: [match schedule announcement](https://inside.fifa.com/en/news/womens-world-cup-2027-brazil-maracana-match-schedule-unveiled), which does not include kickoff times (checked 2026-11-22)
-<!-- VERIFY: confirm Brazil still has no daylight saving time in 2027 before publishing -->

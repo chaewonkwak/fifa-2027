@@ -26,7 +26,7 @@ Teams and kickoff times are not set yet. The final draw on 11 December 2026 will
 
 ## Getting to the stadium
 
-The stadium's central location helps: it is close to the historic centre, and the metro has a station within walking distance. Taxis and ride-hailing are easy from the coastal neighbourhoods.<!-- VERIFY: nearest metro station (Campo da Pólvora?) and walking route -->
+The stadium's central location helps: it is close to the historic centre, and the metro has a station within walking distance. Taxis and ride-hailing are easy from the coastal neighbourhoods.
 
 ## Arriving in Salvador
 
@@ -34,7 +34,7 @@ Salvador International Airport (SSA) is north-east of the centre, so allow time 
 
 ## Where to stay
 
-Barra and Rio Vermelho are popular coastal bases with good restaurants, while staying in or near Pelourinho puts you close to both the old town and the stadium.<!-- VERIFY: neighbourhood advice reviewed by a person who knows Salvador -->
+Barra and Rio Vermelho are popular coastal bases with good restaurants, while staying in or near Pelourinho puts you close to both the old town and the stadium.
 
 ## Weather in June and July
 

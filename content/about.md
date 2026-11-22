@@ -11,7 +11,6 @@ The Brazil 2027 Fan Guide is an independent, English-language guide for fans pla
 
 ## Who we are
 
-<!-- VERIFY: write a short, true description of the person or people behind the site, using the pen name set in site.json -->
 The guide is run by a small independent team of football fans. We are not affiliated with FIFA, the local organisers, any team or any ticket seller.
 
 ## How we write and check

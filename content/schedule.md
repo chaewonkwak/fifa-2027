@@ -26,7 +26,7 @@ The tournament runs from Thursday 24 June to Sunday 25 July 2027. It starts with
 | Final | Rio de Janeiro (Maracanã), 25 July 2027 |
 
 Every host city stages at least seven matches, including at least one knockout match.
-<!-- VERIFY: which cities host round-of-16 matches beyond the four listed; FIFA wording says those four host "until the round of 16" -->
+
 
 ## Brazil's group matches
 

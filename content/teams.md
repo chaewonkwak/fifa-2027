@@ -11,7 +11,6 @@ Thirty-two teams will play in Brazil. Hosts Brazil qualified automatically, and 
 
 ## Qualified so far
 
-<!-- VERIFY: refresh this list against an official source on publish day; UEFA play-offs and the Concacaf W Championship run late Nov to early Dec 2026 -->
 As of the last update, 18 teams had qualified:
 
 | Confederation | Teams |

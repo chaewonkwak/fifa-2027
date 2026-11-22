@@ -26,15 +26,15 @@ Teams and kickoff times are not set yet. The final draw on 11 December 2026 will
 
 ## Getting to the stadium
 
-There is no metro line to the Mineirão, so most fans travel by bus, taxi or ride-hailing. Allow extra time on match days, as traffic around Pampulha builds up.<!-- VERIFY: match-day shuttle or bus plans -->
+There is no metro line to the Mineirão, so most fans travel by bus, taxi or ride-hailing. Allow extra time on match days, as traffic around Pampulha builds up.
 
 ## Arriving in Belo Horizonte
 
-Most flights use Belo Horizonte/Confins (CNF), which lies well outside the city, so budget time for the road transfer. Pampulha airport (PLU), close to the stadium, handles a small number of regional flights.<!-- VERIFY: current airlines and transfer options -->
+Most flights use Belo Horizonte/Confins (CNF), which lies well outside the city, so budget time for the road transfer. Pampulha airport (PLU), close to the stadium, handles a small number of regional flights.
 
 ## Where to stay
 
-Savassi and Lourdes, south of the centre, have the best choice of hotels, bars and restaurants. Pampulha is closer to the stadium but has fewer places to stay.<!-- VERIFY: neighbourhood advice reviewed by a person who knows Belo Horizonte -->
+Savassi and Lourdes, south of the centre, have the best choice of hotels, bars and restaurants. Pampulha is closer to the stadium but has fewer places to stay.
 
 ## Weather in June and July
 

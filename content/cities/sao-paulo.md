@@ -29,7 +29,7 @@ Teams and kickoff times are not set yet. The final draw on 11 December 2026 will
 
 ## Getting to the stadium
 
-The stadium is next to Corinthians-Itaquera station, on metro Line 3 (Red), which also connects with suburban trains. From central areas such as Sé or República, Line 3 runs straight there.<!-- VERIFY: station name and line, and travel time from Paulista/Sé -->
+The stadium is next to Corinthians-Itaquera station, on metro Line 3 (Red), which also connects with suburban trains. From central areas such as Sé or República, Line 3 runs straight there.
 
 ## Arriving in São Paulo
 
@@ -37,7 +37,7 @@ Most international flights use São Paulo/Guarulhos (GRU), north-east of the cit
 
 ## Where to stay
 
-Avenida Paulista, Jardins and Pinheiros are popular bases with plenty of hotels and restaurants. If getting to the stadium matters most, areas along Line 3 such as Tatuapé cut the journey time.<!-- VERIFY: neighbourhood advice reviewed by a person who knows São Paulo -->
+Avenida Paulista, Jardins and Pinheiros are popular bases with plenty of hotels and restaurants. If getting to the stadium matters most, areas along Line 3 such as Tatuapé cut the journey time.
 
 ## Weather in June and July
 

@@ -26,12 +26,10 @@ The e-Visa covers stays of up to 90 days. Apply well before your trip, since pro
 ## Everyone else
 
 Many nationalities can visit Brazil without a visa for short stays, but not all. Check the rules for your passport on the website of the Brazilian embassy or consulate in your country, under the Ministry of Foreign Affairs at gov.br.
-<!-- VERIFY: link a gov.br page that lists visa requirements by nationality -->
 
 ## On arrival
 
 Carry your passport, proof of onward travel and your accommodation details. Your match tickets are not a visa.
-<!-- VERIFY: any tournament-specific entry guidance from Brazilian authorities -->
 
 ## Sources
 

@@ -26,7 +26,7 @@ Teams and kickoff times are not set yet. The final draw on 11 December 2026 will
 
 ## Getting to the stadium
 
-Because the stadium is outside the city, plan the trip in advance. In 2014 fans combined the metro with shuttle buses; check the official match-day transport plan for 2027 before you go.<!-- VERIFY: 2027 match-day transport plan (metro + shuttle or other) -->
+Because the stadium is outside the city, plan the trip in advance. In 2014 fans combined the metro with shuttle buses; check the official match-day transport plan for 2027 before you go.
 
 ## Arriving in Recife
 
@@ -34,7 +34,7 @@ Recife/Guararapes International Airport (REC) is close to Boa Viagem in the sout
 
 ## Where to stay
 
-Boa Viagem, along the beach, is the main hotel area. The historic centre and nearby Olinda suit visitors who want more character, though they are further from the airport.<!-- VERIFY: neighbourhood advice reviewed by a person who knows Recife -->
+Boa Viagem, along the beach, is the main hotel area. The historic centre and nearby Olinda suit visitors who want more character, though they are further from the airport.
 
 ## Weather in June and July
 

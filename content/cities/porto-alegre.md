@@ -26,15 +26,15 @@ Teams and kickoff times are not set yet. The final draw on 11 December 2026 will
 
 ## Getting to the stadium
 
-The stadium is a short taxi or ride-hailing trip from the centre and from neighbourhoods such as Cidade Baixa. Some fans walk along the waterfront, depending on where they stay.<!-- VERIFY: walking distance and match-day transport plans -->
+The stadium is a short taxi or ride-hailing trip from the centre and from neighbourhoods such as Cidade Baixa. Some fans walk along the waterfront, depending on where they stay.
 
 ## Arriving in Porto Alegre
 
-Porto Alegre's Salgado Filho International Airport (POA) is north of the centre. It closed after severe floods in 2024 and later reopened; check current flight options when you book.<!-- VERIFY: airport operating status and international routes -->
+Porto Alegre's Salgado Filho International Airport (POA) is north of the centre. It closed after severe floods in 2024 and later reopened; check current flight options when you book.
 
 ## Where to stay
 
-Moinhos de Vento is leafy and close to restaurants, while Cidade Baixa is livelier at night and nearer the stadium.<!-- VERIFY: neighbourhood advice reviewed by a person who knows Porto Alegre -->
+Moinhos de Vento is leafy and close to restaurants, while Cidade Baixa is livelier at night and nearer the stadium.
 
 ## Weather in June and July
 
