@@ -4,5 +4,11 @@
   "height": 1100,
   "source": "images-src/host-cities-map.svg",
   "width": 1200
+ },
+ "womens-world-cup-winners-timeline.png": {
+  "bytes": 71335,
+  "height": 520,
+  "source": "images-src/womens-world-cup-winners-timeline.svg",
+  "width": 1200
  }
 }
