@@ -16,7 +16,7 @@ target_query: women's world cup 2027 host cities map
 source_of_idea: image-demand
 experiment:
 ---
-The 2027 Women's World Cup is spread across eight Brazilian cities, from Fortaleza, less than 4° south of the equator, to Porto Alegre in the far south. The map shows where each one sits, coloured by region.
+The 2027 Women's World Cup, played from 24 June to 25 July 2027, is spread across eight Brazilian cities, from Fortaleza, less than 4° south of the equator, to Porto Alegre in the far south. The map shows where each one sits, coloured by region.
 
 <figure>
 <img src="/img/host-cities-map.png" alt="Map of Brazil's eight 2027 Women's World Cup host cities, from Fortaleza in the north-east to Porto Alegre in the south" width="1200" height="1100" loading="lazy" style="max-width:100%;height:auto" data-text-equivalent="#host-cities-table">
@@ -50,4 +50,5 @@ For travel between regions, see [getting between host cities](/travel/getting-be
 
 - FIFA: [host cities and stadiums](https://inside.fifa.com/en/news/eight-vibrant-host-cities-to-dazzle-the-world-at-fifa-womens-world-cup-brazil-2027) (checked 2026-11-25)
 - FIFA: [match schedule announcement](https://inside.fifa.com/en/news/womens-world-cup-2027-brazil-maracana-match-schedule-unveiled) (checked 2026-11-25)
+- FIFA: [Player-first approach at the heart of FIFA Women's World Cup 2027 match schedule](https://inside.fifa.com/en/news/womens-world-cup-brazil-2027-play-off-draw-sarai-bareman), tournament dates 24 June to 25 July 2027 (checked 2026-11-25)
 - Wikipedia: city coordinates and regions from the articles on [Rio de Janeiro](https://en.wikipedia.org/wiki/Rio_de_Janeiro), [São Paulo](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo), [Belo Horizonte](https://en.wikipedia.org/wiki/Belo_Horizonte), [Brasília](https://en.wikipedia.org/wiki/Bras%C3%ADlia), [Fortaleza](https://en.wikipedia.org/wiki/Fortaleza), [Recife](https://en.wikipedia.org/wiki/Recife), [Salvador](https://en.wikipedia.org/wiki/Salvador,_Bahia), [Porto Alegre](https://en.wikipedia.org/wiki/Porto_Alegre) and [Jaguarão](https://en.wikipedia.org/wiki/Jaguar%C3%A3o) (checked 2026-11-25)

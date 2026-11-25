@@ -11,6 +11,7 @@ BLOCKERS (must be fixed before deploying)
     any noindex/noarchive/nocache/nosnippet, missing disclaimer, invalid JSON-LD,
     or Article dateModified different from the visible "Updated" date
   - a broken internal link or #anchor
+  - an orphan: a sitemap page (except /) that no other page links to
   - IndexNow key file missing or wrong, X-Robots-Tag in _headers, 404 page missing noindex
 WARNINGS
   - city pages more than 15% longer/shorter than the city average (they are an experiment group)
@@ -213,6 +214,27 @@ def main():
     for url in pages:
         if url != "/404/" and url not in listed:
             blockers.append(f"{url} is built but not in the sitemap")
+
+    # 4b. orphans: in the sitemap but no internal link from any other page (CHEATSHEET A3).
+    # Links in header/nav/footer count (they are crawlable). Links on the 404 page and
+    # self-links do not. The home page is the entry point and is exempt.
+    inbound = {u: set() for u in pages}
+    for src, p in pages.items():
+        if src == "/404/":
+            continue
+        for href in p.links:
+            if href.startswith(BASE):
+                href = href[len(BASE):] or "/"
+            if not href.startswith("/") or href.startswith("//"):
+                continue
+            path = href.partition("#")[0].partition("?")[0]
+            if path not in pages and path + "/" in pages:
+                path += "/"
+            if path in inbound and path != src:
+                inbound[path].add(src)
+    for url in sorted(listed):
+        if url != "/" and url in inbound and not inbound[url]:
+            blockers.append(f"{url} is in the sitemap but no other page links to it (orphan)")
 
     # 5. IndexNow key, headers
     key = SITE.get("indexnow_key")
