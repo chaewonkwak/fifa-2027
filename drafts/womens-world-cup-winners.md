@@ -28,12 +28,12 @@ Five countries have won the FIFA Women's World Cup in its nine tournaments so fa
 |---|---|---|---|
 | 1991 | China | United States | Norway |
 | 1995 | Sweden | Norway | Germany |
-| 1999 | United States | United States | <!-- VERIFY: 1999 runner-up. Opta says Canada, ESPN and NBC Sports say China: sources disagree, so not written. Check on FIFA --> |
-| 2003 | <!-- VERIFY: 2003 host. ESPN says USA, Opta does not name the host. Check on FIFA --> | Germany | Sweden |
-| 2007 | China | Germany | <!-- VERIFY: 2007 runner-up. ESPN, NBC Sports and 90min say Brazil, no Opta source. Check on FIFA --> |
-| 2011 | <!-- VERIFY: 2011 host. ESPN says Germany, no Opta source. Check on FIFA --> | Japan | United States |
+| 1999 | United States | United States | China PR |
+| 2003 | United States | Germany | Sweden |
+| 2007 | China | Germany | Brazil |
+| 2011 | Germany | Japan | United States |
 | 2015 | Canada | United States | Japan |
-| 2019 | <!-- VERIFY: 2019 host. ESPN says France, no Opta source. Check on FIFA --> | United States | <!-- VERIFY: 2019 runner-up. ESPN and NBC Sports say Netherlands, no Opta source. Check on FIFA --> |
+| 2019 | France | United States | Netherlands |
 | 2023 | Australia and New Zealand | Spain | England |
 
 ## Titles by country
@@ -63,7 +63,7 @@ See the [match schedule](/schedule/) for dates and venues, the [host cities map]
 
 ## How we checked these numbers
 
-The 2023 and 2027 facts, and the 1995 and 1999 final venues, come from FIFA. FIFA's pages on earlier tournaments could not be read as plain text when we checked, so the 1991 to 2019 results come from the sports data company Opta, cross-checked with ESPN and NBC Sports. We only wrote a result where Opta and at least one of the other two agree. Where they disagreed, or Opta did not cover it, we checked FIFA directly before publishing.
+The 2023 and 2027 facts, and the 1995 and 1999 final venues, come from FIFA. For 1991 to 2019 we started from the sports data company Opta, cross-checked with ESPN and NBC Sports, and wrote a result only where Opta and at least one of the other two agreed. Six entries did not pass that test, either because the sources disagreed or because Opta did not cover them: the 1999, 2007 and 2019 runners-up and the 2003, 2011 and 2019 hosts. We checked all six against FIFA's own list of champions. One of them was a real disagreement: Opta names Canada as the 1999 runner-up, while FIFA, ESPN and NBC Sports all have China PR.
 
 ## Sources
 
@@ -71,6 +71,7 @@ The 2023 and 2027 facts, and the 1995 and 1999 final venues, come from FIFA. FIF
 - FIFA: [Soaring global engagement for greatest ever FIFA Women's World Cup](https://inside.fifa.com/en/news/soaring-global-engagement-greatest-ever-fifa-womens-world-cup-sustainability-benchmarks-set), 29 November 2024, Spain 1–0 England in the final at Stadium Australia in Sydney — FIFA checked (checked 2026-11-25)
 - FIFA: [FIFA Women's World Cup 2027 champions to lift trophy at Maracanã as match schedule unveiled](https://inside.fifa.com/en/news/womens-world-cup-2027-brazil-maracana-match-schedule-unveiled), 20 August 2026, Maracanã final, Råsunda and Rose Bowl finals — FIFA checked (checked 2026-11-25)
 - FIFA: [Player-first approach at the heart of FIFA Women's World Cup 2027 match schedule](https://inside.fifa.com/en/news/womens-world-cup-brazil-2027-play-off-draw-sarai-bareman), 2027 dates — FIFA checked (checked 2026-11-25)
+- FIFA: [Women's World Cup champions and winners, 1991 to 2019](https://www.fifa.com/en/tournaments/womens/womensworldcup/articles/womens-world-cup-champions-winners-1991-2019-usa-norway-germany-japan), runners-up in 1999 (China PR), 2007 (Brazil) and 2019 (Netherlands), hosts in 2003 (United States), 2011 (Germany) and 2019 (France) — FIFA checked (checked 2026-11-25)
 - Opta (The Analyst): [Women's World Cup Winners: The Past Champions](https://theanalyst.com/articles/womens-world-cup-winners-past-champions), published 20 August 2023 — Opta, cross-checked with the outlets below (checked 2026-11-25)
 - ESPN: [Who has won the FIFA Women's World Cup? All-time winners list](https://www.espn.com.sg/soccer/story/_/id/47202688/fifa-womens-world-cup-winners-list), 5 December 2025 — Opta · ESPN cross-check: all winners, 1991 to 2015 hosts where Opta names them, runners-up for 1991, 1995, 2003, 2011 and 2015 (checked 2026-11-25)
 - NBC Sports: [Women's World Cup: Full list of past winners year-by-year](https://www.nbcsports.com/soccer/news/womens-world-cup-full-list-of-past-winners-year-by-year), 23 August 2023 — Opta · NBC Sports cross-check: all winners, Germany's 2003 and 2007 titles (checked 2026-11-25)

@@ -1,5 +1,8 @@
 # 확인 목록 — /womens-world-cup-winners/ (Q005, E001 후보)
 
+> **2026-11-25 갱신: VERIFY 6칸 채움 (사람 FIFA 확인).** 출처 = FIFA "Women's World Cup champions/winners 1991-2019" 기사 (fifa.com, 에이전트 fetch로는 빈 페이지 → 사람 브라우저 확인에 근거). 1999 China PR / 2003 United States / 2007 Brazil / 2011 Germany / 2019 France / 2019 Netherlands. VERIFY 0개.
+> **발행 예정: 2026-11-27~28 (사람 지시).** 아래 0번 표는 확인 전 기록으로 남겨 둔다. 4번 발행 명령은 그대로 유효 (Q007은 2026-11-25 발행됨 → 이 글의 Q007 링크가 살아 있음)
+
 > drafts/는 빌드되지 않는다. 사람용, 발행하지 않음. 출처 등급 규칙: seo-agent `docs/CONTENT_LAB.md` 2-1.
 
 ## 0. 먼저: 사람이 FIFA에서 직접 확인할 핵심 숫자 (5개) — **VERIFY 6개가 이것. 확인 전에는 deploy.sh가 막는다**
