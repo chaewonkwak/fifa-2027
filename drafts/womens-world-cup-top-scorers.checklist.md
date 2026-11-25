@@ -1,5 +1,11 @@
 # 확인 목록 — /womens-world-cup-top-scorers/ (Q007, E001 후보)
 
+> **2026-11-25 갱신: 사람 FIFA 확인 완료, 사람 검토 종료 (사람 메시지). 발행은 에이전트가 이번 1건에 한해 수행.**
+> - FIFA 확인 값: Marta 17골·23경기·6개 대회, Prinz 14, Wambach 14(공동 2위), Akers 12, 한 대회 10골(Akers 1991), 한 경기 5골(Akers 1991, Morgan 2019 타이)
+> - 에이전트가 직접 읽은 FIFA 페이지: Prinz(inside.fifa.com 2016-11-05), Wambach(2021-01-07, 공동 2위 문구), '19ers in numbers(2019-07-07, Morgan 5골 = Akers 기록 타이). 나머지 4개 fifa.com 페이지는 에이전트 fetch에서 빈 페이지 → **사람 브라우저 확인**에 근거
+> - Akers 13경기: FIFA 확인 못 함 → 본문에서 뺌 (경기당 골 표에서 Akers 제외). Marta 20경기 → 23경기(FIFA)로 표에 되살림
+> - 아래 0~1번 표는 확인 전 기록으로 남겨 둔다
+
 > drafts/는 빌드되지 않는다. 이 파일은 사람용이며 발행하지 않는다. 출처 등급 규칙: seo-agent `docs/CONTENT_LAB.md` 2-1.
 
 ## 0. 먼저: 사람이 FIFA에서 직접 확인할 핵심 숫자 (5개)
