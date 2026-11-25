@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" font-family="Helvetica, Arial, sans-serif">
+<title>Women's World Cup all-time top scorers, 1991–2023</title>
+<rect width="1200" height="800" fill="#fbfcfb"/>
+<text x="70" y="62" font-size="38" font-weight="700" fill="#1d2420">Women's World Cup all-time top scorers</text>
+<text x="70" y="96" font-size="22" fill="#5d6862">Every player with 11 or more goals, tournaments 1991–2023</text>
+<line x1="400" y1="140" x2="400" y2="654" stroke="#e3e9e5"/>
+<text x="400" y="680" font-size="16" fill="#8a958f" text-anchor="middle">0</text>
+<line x1="600" y1="140" x2="600" y2="654" stroke="#e3e9e5"/>
+<text x="600" y="680" font-size="16" fill="#8a958f" text-anchor="middle">5</text>
+<line x1="800" y1="140" x2="800" y2="654" stroke="#e3e9e5"/>
+<text x="800" y="680" font-size="16" fill="#8a958f" text-anchor="middle">10</text>
+<line x1="1000" y1="140" x2="1000" y2="654" stroke="#e3e9e5"/>
+<text x="1000" y="680" font-size="16" fill="#8a958f" text-anchor="middle">15</text>
+<text x="382" y="178" font-size="23" font-weight="700" fill="#1d2420" text-anchor="end">Marta</text>
+<text x="382" y="204" font-size="17" fill="#5d6862" text-anchor="end">Brazil</text>
+<rect x="400" y="156" width="680" height="40" rx="4" fill="#d9822b"/>
+<text x="1092" y="184" font-size="24" font-weight="700" fill="#1d2420">17</text>
+<text x="382" y="250" font-size="23" font-weight="700" fill="#1d2420" text-anchor="end">Birgit Prinz</text>
+<text x="382" y="276" font-size="17" fill="#5d6862" text-anchor="end">Germany</text>
+<rect x="400" y="228" width="560" height="40" rx="4" fill="#4f7d68"/>
+<text x="972" y="256" font-size="24" font-weight="700" fill="#1d2420">14</text>
+<text x="382" y="322" font-size="23" font-weight="700" fill="#1d2420" text-anchor="end">Abby Wambach</text>
+<text x="382" y="348" font-size="17" fill="#5d6862" text-anchor="end">United States</text>
+<rect x="400" y="300" width="560" height="40" rx="4" fill="#4f7d68"/>
+<text x="972" y="328" font-size="24" font-weight="700" fill="#1d2420">14</text>
+<text x="382" y="394" font-size="23" font-weight="700" fill="#1d2420" text-anchor="end">Michelle Akers</text>
+<text x="382" y="420" font-size="17" fill="#5d6862" text-anchor="end">United States</text>
+<rect x="400" y="372" width="480" height="40" rx="4" fill="#4f7d68"/>
+<text x="892" y="400" font-size="24" font-weight="700" fill="#1d2420">12</text>
+<text x="382" y="466" font-size="23" font-weight="700" fill="#1d2420" text-anchor="end">Cristiane</text>
+<text x="382" y="492" font-size="17" fill="#5d6862" text-anchor="end">Brazil</text>
+<rect x="400" y="444" width="440" height="40" rx="4" fill="#d9822b"/>
+<text x="852" y="472" font-size="24" font-weight="700" fill="#1d2420">11</text>
+<text x="382" y="538" font-size="23" font-weight="700" fill="#1d2420" text-anchor="end">Sun Wen</text>
+<text x="382" y="564" font-size="17" fill="#5d6862" text-anchor="end">China</text>
+<rect x="400" y="516" width="440" height="40" rx="4" fill="#4f7d68"/>
+<text x="852" y="544" font-size="24" font-weight="700" fill="#1d2420">11</text>
+<text x="382" y="610" font-size="23" font-weight="700" fill="#1d2420" text-anchor="end">Bettina Wiegmann</text>
+<text x="382" y="636" font-size="17" fill="#5d6862" text-anchor="end">Germany</text>
+<rect x="400" y="588" width="440" height="40" rx="4" fill="#4f7d68"/>
+<text x="852" y="616" font-size="24" font-weight="700" fill="#1d2420">11</text>
+<text x="400" y="716" font-size="17" fill="#5d6862">Goals at FIFA Women's World Cup final tournaments. Brazilian players in orange.</text>
+<text x="70" y="752" font-size="16" fill="#8a958f">Sources: Opta (The Analyst), cross-checked with Goal, NBC and Just Women's Sports.</text>
+<text x="70" y="776" font-size="16" fill="#8a958f">Original graphic by Brazil 2027 Fan Guide, an independent fan site not affiliated with FIFA.</text>
+</svg>
