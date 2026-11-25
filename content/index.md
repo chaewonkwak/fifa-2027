@@ -34,6 +34,8 @@ More detail is in the [schedule](/schedule/) and [tickets](/tickets/) guides.
 | [Recife](/cities/recife/) | Arena de Pernambuco | Round of 16 |
 | [Salvador](/cities/salvador/) | Arena Fonte Nova | Round of 16 |
 
+See where all eight are on our [host cities map, with distances from Rio](/host-cities-map/).
+
 ## Plan your trip
 
 - [Kickoff times in your time zone](/kickoff-times/)
