@@ -8,7 +8,7 @@
 2. 머리말의 `published:` / `updated:`를 발행일로 바꾼다
 3. `content/` 아래 맞는 위치로 옮긴다: `git mv drafts/host-cities-map.md content/host-cities-map.md`
 4. 이미지가 있으면 `python3 tools/render_images.py <이름>`으로 PNG가 최신인지 확인
-5. 배포 전 검사 (VERIFY가 남아 있으면 여기서 막힌다. `deploy.sh`는 `--draft`라 경고만 하므로 이 단계를 건너뛰지 않는다):
+5. VERIFY가 하나라도 남아 있으면 배포되지 않는다 — `deploy.sh`가 `check_site.py` 엄격 모드로 사이트 전체를 검사한다. 배포 전에 미리 보고 싶으면 (선택):
    ```bash
    python3 build.py && python3 check_site.py
    ```

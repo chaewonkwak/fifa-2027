@@ -16,7 +16,7 @@
 1. `python3 build.py` — HTML, `sitemap.xml`(lastmod), `robots.txt`
 2. `python3 tools/image_sitemap.py` — `sitemap-images.xml` (이미지가 있을 때만)
 3. `python3 tools/check_images.py` — alt·파일명·텍스트 대체물 검사
-4. `python3 check_site.py --draft` — 사이트 검사 (고아 페이지 등). `--draft`라서 VERIFY 메모는 **경고만** 한다 → 발행 글의 VERIFY는 deploy 전에 사람이 지운다 (`drafts/README.md` 1번)
+4. `python3 check_site.py` — **사이트 전체 엄격 검사.** 고아 페이지 등 구조 문제와 `content/` 전체·`site.json`의 VERIFY 메모를 모두 BLOCK한다. 하나라도 걸리면 커밋하지 않고 멈춘다
 5. `git add -A` → `git commit` → `git push` — 푸시되면 Cloudflare가 `dist/`를 배포
 
 주의:
@@ -30,7 +30,7 @@
 
 ```bash
 # 사이트 저장소
-git mv drafts/<slug>.md content/<slug>.md      # 머리말 published/updated, VERIFY 해소 후
+git mv drafts/<slug>.md content/<slug>.md      # 머리말 published/updated, VERIFY 모두 해소 (남아 있으면 deploy.sh가 막음)
 ./deploy.sh "publish <slug>"
 
 # seo-agent
