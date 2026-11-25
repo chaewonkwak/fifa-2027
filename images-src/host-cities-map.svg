@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1100" font-family="Helvetica, Arial, sans-serif">
+<title>Brazil 2027 Women's World Cup host cities map</title>
+<rect width="1200" height="1100" fill="#fbfcfb"/>
+<text x="70" y="62" font-size="38" font-weight="700" fill="#1d2420">Brazil 2027: the eight host cities</text>
+<text x="70" y="96" font-size="22" fill="#5d6862">Women's World Cup · 24 June – 25 July 2027</text>
+<rect x="70" y="120" width="589" height="896" fill="#eef5f1" stroke="#dfe5e1"/>
+<line x1="70" y1="232" x2="659" y2="232" stroke="#d6e2db" stroke-dasharray="4 6"/>
+<text x="76" y="226" font-size="15" fill="#8a958f">5°S</text>
+<line x1="70" y1="372" x2="659" y2="372" stroke="#d6e2db" stroke-dasharray="4 6"/>
+<text x="76" y="366" font-size="15" fill="#8a958f">10°S</text>
+<line x1="70" y1="512" x2="659" y2="512" stroke="#d6e2db" stroke-dasharray="4 6"/>
+<text x="76" y="506" font-size="15" fill="#8a958f">15°S</text>
+<line x1="70" y1="652" x2="659" y2="652" stroke="#d6e2db" stroke-dasharray="4 6"/>
+<text x="76" y="646" font-size="15" fill="#8a958f">20°S</text>
+<line x1="70" y1="792" x2="659" y2="792" stroke="#d6e2db" stroke-dasharray="4 6"/>
+<text x="76" y="786" font-size="15" fill="#8a958f">25°S</text>
+<line x1="70" y1="932" x2="659" y2="932" stroke="#d6e2db" stroke-dasharray="4 6"/>
+<text x="76" y="926" font-size="15" fill="#8a958f">30°S</text>
+<line x1="204" y1="120" x2="204" y2="1016" stroke="#d6e2db" stroke-dasharray="4 6"/>
+<text x="209" y="1008" font-size="15" fill="#8a958f">50°W</text>
+<line x1="338" y1="120" x2="338" y2="1016" stroke="#d6e2db" stroke-dasharray="4 6"/>
+<text x="343" y="1008" font-size="15" fill="#8a958f">45°W</text>
+<line x1="472" y1="120" x2="472" y2="1016" stroke="#d6e2db" stroke-dasharray="4 6"/>
+<text x="477" y="1008" font-size="15" fill="#8a958f">40°W</text>
+<line x1="606" y1="120" x2="606" y2="1016" stroke="#d6e2db" stroke-dasharray="4 6"/>
+<text x="611" y="1008" font-size="15" fill="#8a958f">35°W</text>
+<text x="592" y="680" font-size="20" fill="#7aa58f" font-style="italic" text-anchor="middle">Atlantic</text><text x="592" y="704" font-size="20" fill="#7aa58f" font-style="italic" text-anchor="middle">Ocean</text>
+<circle cx="511" cy="196" r="10" fill="#d9822b" stroke="#fff" stroke-width="3"/>
+<text x="497" y="186" font-size="21" font-weight="700" fill="#1d2420" text-anchor="end">Fortaleza</text>
+<circle cx="609" cy="317" r="10" fill="#d9822b" stroke="#fff" stroke-width="3"/>
+<text x="595" y="305" font-size="21" font-weight="700" fill="#1d2420" text-anchor="end">Recife</text>
+<circle cx="512" cy="455" r="10" fill="#d9822b" stroke="#fff" stroke-width="3"/>
+<text x="498" y="461" font-size="21" font-weight="700" fill="#1d2420" text-anchor="end">Salvador</text>
+<circle cx="261" cy="534" r="10" fill="#3b6fb6" stroke="#fff" stroke-width="3"/>
+<text x="247" y="524" font-size="21" font-weight="700" fill="#1d2420" text-anchor="end">Brasília</text>
+<circle cx="366" cy="650" r="10" fill="#0b6e4f" stroke="#fff" stroke-width="3"/>
+<text x="380" y="640" font-size="21" font-weight="700" fill="#1d2420" text-anchor="start">Belo Horizonte</text>
+<circle cx="387" cy="733" r="13" fill="#0b6e4f" stroke="#fff" stroke-width="3"/>
+<text x="401" y="759" font-size="21" font-weight="700" fill="#1d2420" text-anchor="start">Rio de Janeiro</text>
+<circle cx="294" cy="751" r="10" fill="#0b6e4f" stroke="#fff" stroke-width="3"/>
+<text x="280" y="781" font-size="21" font-weight="700" fill="#1d2420" text-anchor="end">São Paulo</text>
+<circle cx="171" cy="933" r="10" fill="#8a4fb0" stroke="#fff" stroke-width="3"/>
+<text x="185" y="939" font-size="21" font-weight="700" fill="#1d2420" text-anchor="start">Porto Alegre</text>
+<text x="760" y="150" font-size="22" font-weight="700" fill="#1d2420">City · hosts matches up to</text>
+<circle cx="770" cy="191" r="9" fill="#0b6e4f"/>
+<text x="790" y="198" font-size="20" font-weight="700" fill="#1d2420">Rio de Janeiro</text>
+<text x="790" y="221" font-size="16" fill="#5d6862">Estádio do Maracanã · Final</text>
+<circle cx="770" cy="249" r="9" fill="#0b6e4f"/>
+<text x="790" y="256" font-size="20" font-weight="700" fill="#1d2420">São Paulo</text>
+<text x="790" y="279" font-size="16" fill="#5d6862">Arena Itaquera · Semi-final</text>
+<circle cx="770" cy="307" r="9" fill="#d9822b"/>
+<text x="790" y="314" font-size="20" font-weight="700" fill="#1d2420">Fortaleza</text>
+<text x="790" y="337" font-size="16" fill="#5d6862">Arena Castelão · Quarter-final</text>
+<circle cx="770" cy="365" r="9" fill="#0b6e4f"/>
+<text x="790" y="372" font-size="20" font-weight="700" fill="#1d2420">Belo Horizonte</text>
+<text x="790" y="395" font-size="16" fill="#5d6862">Estádio Mineirão · Quarter-final</text>
+<circle cx="770" cy="423" r="9" fill="#d9822b"/>
+<text x="790" y="430" font-size="20" font-weight="700" fill="#1d2420">Recife</text>
+<text x="790" y="453" font-size="16" fill="#5d6862">Arena de Pernambuco · Round of 16</text>
+<circle cx="770" cy="481" r="9" fill="#d9822b"/>
+<text x="790" y="488" font-size="20" font-weight="700" fill="#1d2420">Salvador</text>
+<text x="790" y="511" font-size="16" fill="#5d6862">Arena Fonte Nova · Round of 16</text>
+<circle cx="770" cy="539" r="9" fill="#3b6fb6"/>
+<text x="790" y="546" font-size="20" font-weight="700" fill="#1d2420">Brasília</text>
+<text x="790" y="569" font-size="16" fill="#5d6862">Estádio Nacional · Round of 16</text>
+<circle cx="770" cy="597" r="9" fill="#8a4fb0"/>
+<text x="790" y="604" font-size="20" font-weight="700" fill="#1d2420">Porto Alegre</text>
+<text x="790" y="627" font-size="16" fill="#5d6862">Estádio Beira-Rio · Round of 16</text>
+<text x="760" y="682" font-size="18" font-weight="700" fill="#1d2420">Regions</text>
+<rect x="760" y="698" width="16" height="16" rx="3" fill="#d9822b"/><text x="786" y="712" font-size="17" fill="#1d2420">North-east</text>
+<rect x="760" y="728" width="16" height="16" rx="3" fill="#0b6e4f"/><text x="786" y="742" font-size="17" fill="#1d2420">South-east</text>
+<rect x="760" y="758" width="16" height="16" rx="3" fill="#3b6fb6"/><text x="786" y="772" font-size="17" fill="#1d2420">Centre</text>
+<rect x="760" y="788" width="16" height="16" rx="3" fill="#8a4fb0"/><text x="786" y="802" font-size="17" fill="#1d2420">South</text>
+<text x="70" y="1070" font-size="15" fill="#5d6862">Cities plotted by latitude and longitude; no borders shown. Original graphic: Brazil 2027 Fan Guide (fifa-2027.pages.dev). Independent; not affiliated with FIFA.</text>
+</svg>
