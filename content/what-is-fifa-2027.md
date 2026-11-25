@@ -11,7 +11,7 @@ FIFA organises many tournaments, and people search for them in many ways. In 202
 
 ## The 2027 Women's World Cup
 
-The tenth FIFA Women's World Cup will be played in Brazil from 24 June to 25 July 2027. It is the first edition in South America. Thirty-two national teams from all six confederations will play 64 matches in eight host cities, with the opening match and the final at the Maracanã in Rio de Janeiro. Spain are the defending champions.
+The tenth FIFA Women's World Cup will be played in Brazil from 24 June to 25 July 2027. It is the first edition in South America. Thirty-two national teams from all six confederations will play 64 matches in eight host cities, with the opening match and the final at the Maracanã in Rio de Janeiro. Spain are the defending champions. Brazil's Marta is the tournament's [all-time top scorer](/womens-world-cup-top-scorers/).
 
 The rest of this site covers the tournament in detail: the [schedule](/schedule/), the [host cities](/#cities), [tickets](/tickets/) and [travel](/travel/visa-and-entry/).
 
