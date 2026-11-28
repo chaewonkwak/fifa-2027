@@ -2,8 +2,8 @@
 title: Women's World Cup winners: every champion from 1991 to 2023
 h1: Women's World Cup winners and hosts, 1991 to 2023
 description: Five countries have won the Women's World Cup: the USA four times, Germany twice, and Norway, Japan and Spain once each. Every final, year by year.
-updated: 2026-11-25
-published: 2026-11-25
+updated: 2026-11-27
+published: 2026-11-27
 type: article
 breadcrumb: Past winners
 content_type: list
