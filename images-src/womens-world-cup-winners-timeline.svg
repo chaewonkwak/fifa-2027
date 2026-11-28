@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" font-family="Helvetica, Arial, sans-serif">
+<title>Women's World Cup winners, 1991–2023</title>
+<rect width="1200" height="520" fill="#fbfcfb"/>
+<text x="70" y="62" font-size="38" font-weight="700" fill="#1d2420">Women's World Cup winners, 1991–2023</text>
+<text x="70" y="96" font-size="22" fill="#5d6862">Nine tournaments, five champions. The tenth is in Brazil in 2027.</text>
+<line x1="70" y1="270" x2="996.6666666666666" y2="270" stroke="#9aa59f" stroke-width="4"/>
+<line x1="996.6666666666666" y1="270" x2="1110.0" y2="270" stroke="#9aa59f" stroke-width="4" stroke-dasharray="8 8"/>
+<circle cx="90" cy="270" r="13" fill="#3d6fa3" stroke="#fff" stroke-width="3"/>
+<text x="90" y="240" font-size="22" font-weight="700" fill="#1d2420" text-anchor="middle">1991</text>
+<text x="90" y="318" font-size="21" font-weight="700" fill="#3d6fa3" text-anchor="middle">USA</text>
+<circle cx="203" cy="270" r="13" fill="#9b5c8f" stroke="#fff" stroke-width="3"/>
+<text x="203" y="240" font-size="22" font-weight="700" fill="#1d2420" text-anchor="middle">1995</text>
+<text x="203" y="318" font-size="21" font-weight="700" fill="#9b5c8f" text-anchor="middle">Norway</text>
+<circle cx="317" cy="270" r="13" fill="#3d6fa3" stroke="#fff" stroke-width="3"/>
+<text x="317" y="240" font-size="22" font-weight="700" fill="#1d2420" text-anchor="middle">1999</text>
+<text x="317" y="318" font-size="21" font-weight="700" fill="#3d6fa3" text-anchor="middle">USA</text>
+<circle cx="430" cy="270" r="13" fill="#4f7d68" stroke="#fff" stroke-width="3"/>
+<text x="430" y="240" font-size="22" font-weight="700" fill="#1d2420" text-anchor="middle">2003</text>
+<text x="430" y="318" font-size="21" font-weight="700" fill="#4f7d68" text-anchor="middle">Germany</text>
+<circle cx="543" cy="270" r="13" fill="#4f7d68" stroke="#fff" stroke-width="3"/>
+<text x="543" y="240" font-size="22" font-weight="700" fill="#1d2420" text-anchor="middle">2007</text>
+<text x="543" y="318" font-size="21" font-weight="700" fill="#4f7d68" text-anchor="middle">Germany</text>
+<circle cx="657" cy="270" r="13" fill="#c2453a" stroke="#fff" stroke-width="3"/>
+<text x="657" y="240" font-size="22" font-weight="700" fill="#1d2420" text-anchor="middle">2011</text>
+<text x="657" y="318" font-size="21" font-weight="700" fill="#c2453a" text-anchor="middle">Japan</text>
+<circle cx="770" cy="270" r="13" fill="#3d6fa3" stroke="#fff" stroke-width="3"/>
+<text x="770" y="240" font-size="22" font-weight="700" fill="#1d2420" text-anchor="middle">2015</text>
+<text x="770" y="318" font-size="21" font-weight="700" fill="#3d6fa3" text-anchor="middle">USA</text>
+<circle cx="883" cy="270" r="13" fill="#3d6fa3" stroke="#fff" stroke-width="3"/>
+<text x="883" y="240" font-size="22" font-weight="700" fill="#1d2420" text-anchor="middle">2019</text>
+<text x="883" y="318" font-size="21" font-weight="700" fill="#3d6fa3" text-anchor="middle">USA</text>
+<circle cx="997" cy="270" r="13" fill="#d9822b" stroke="#fff" stroke-width="3"/>
+<text x="997" y="240" font-size="22" font-weight="700" fill="#1d2420" text-anchor="middle">2023</text>
+<text x="997" y="318" font-size="21" font-weight="700" fill="#d9822b" text-anchor="middle">Spain</text>
+<circle cx="1110" cy="270" r="13" fill="#fbfcfb" stroke="#9aa59f" stroke-width="4"/>
+<text x="1110" y="240" font-size="22" font-weight="700" fill="#1d2420" text-anchor="middle">2027</text>
+<text x="1110" y="318" font-size="20" fill="#5d6862" text-anchor="middle">Brazil</text>
+<text x="1110" y="342" font-size="17" fill="#5d6862" text-anchor="middle">(host)</text>
+<text x="70" y="410" font-size="19" fill="#1d2420">Titles: USA 4 · Germany 2 · Norway 1 · Japan 1 · Spain 1</text>
+<text x="70" y="474" font-size="16" fill="#8a958f">Sources: FIFA (2023, 2027); earlier winners from Opta (The Analyst), cross-checked with ESPN and NBC Sports.</text>
+<text x="70" y="498" font-size="16" fill="#8a958f">Original graphic by Brazil 2027 Fan Guide, an independent fan site not affiliated with FIFA.</text>
+</svg>

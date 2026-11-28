@@ -10,5 +10,11 @@
   "height": 800,
   "source": "images-src/womens-world-cup-top-scorers.svg",
   "width": 1200
+ },
+ "womens-world-cup-winners-timeline.png": {
+  "bytes": 71335,
+  "height": 520,
+  "source": "images-src/womens-world-cup-winners-timeline.svg",
+  "width": 1200
  }
 }
